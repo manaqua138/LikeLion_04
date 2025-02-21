@@ -18,10 +18,11 @@ namespace LikeLion2
             char grade = 'S';
 
 
-            Console.WriteLine(name);
-            Console.WriteLine(hp);
-            Console.WriteLine(att);
-            Console.WriteLine(grade);
+            Console.WriteLine("캐릭터");
+            Console.WriteLine("이름 : "+name);
+            Console.WriteLine("체력 : "+hp);
+            Console.WriteLine("공격력 : "+att);
+            Console.WriteLine("등급 : "+grade);
 
 
 
