@@ -11,15 +11,17 @@ namespace LikeLion2
         static void Main(string[] args)
         {
          
-            double pi = 3.14;
-            char letter = 'A';
+       
             string name = "ALice";
-            int age = 25;
+            int hp = 100;
+            double att = 56.7;
+            char grade = 'S';
 
-            Console.WriteLine(age);
-            Console.WriteLine(pi);
-            Console.WriteLine(letter);
+
             Console.WriteLine(name);
+            Console.WriteLine(hp);
+            Console.WriteLine(att);
+            Console.WriteLine(grade);
 
 
 
