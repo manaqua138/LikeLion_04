@@ -1,0 +1,7 @@
+C:\Github_desktop\LikeLion_04\25.02.24.homework\25.02.24.homework\bin\Debug\25.02.24.homework.exe.config
+C:\Github_desktop\LikeLion_04\25.02.24.homework\25.02.24.homework\bin\Debug\25.02.24.homework.exe
+C:\Github_desktop\LikeLion_04\25.02.24.homework\25.02.24.homework\bin\Debug\25.02.24.homework.pdb
+C:\Github_desktop\LikeLion_04\25.02.24.homework\25.02.24.homework\obj\Debug\25.02.24.assignment.csproj.AssemblyReference.cache
+C:\Github_desktop\LikeLion_04\25.02.24.homework\25.02.24.homework\obj\Debug\25.02.24.assignment.csproj.CoreCompileInputs.cache
+C:\Github_desktop\LikeLion_04\25.02.24.homework\25.02.24.homework\obj\Debug\25.02.24.homework.exe
+C:\Github_desktop\LikeLion_04\25.02.24.homework\25.02.24.homework\obj\Debug\25.02.24.homework.pdb
