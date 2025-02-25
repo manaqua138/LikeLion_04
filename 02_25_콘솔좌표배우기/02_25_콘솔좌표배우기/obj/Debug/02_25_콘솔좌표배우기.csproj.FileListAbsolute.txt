@@ -1,0 +1,7 @@
+C:\Github_desktop\LikeLion_04\02_25_콘솔좌표배우기\02_25_콘솔좌표배우기\bin\Debug\02_25_콘솔좌표배우기.exe.config
+C:\Github_desktop\LikeLion_04\02_25_콘솔좌표배우기\02_25_콘솔좌표배우기\bin\Debug\02_25_콘솔좌표배우기.exe
+C:\Github_desktop\LikeLion_04\02_25_콘솔좌표배우기\02_25_콘솔좌표배우기\bin\Debug\02_25_콘솔좌표배우기.pdb
+C:\Github_desktop\LikeLion_04\02_25_콘솔좌표배우기\02_25_콘솔좌표배우기\obj\Debug\02_25_콘솔좌표배우기.csproj.AssemblyReference.cache
+C:\Github_desktop\LikeLion_04\02_25_콘솔좌표배우기\02_25_콘솔좌표배우기\obj\Debug\02_25_콘솔좌표배우기.csproj.CoreCompileInputs.cache
+C:\Github_desktop\LikeLion_04\02_25_콘솔좌표배우기\02_25_콘솔좌표배우기\obj\Debug\02_25_콘솔좌표배우기.exe
+C:\Github_desktop\LikeLion_04\02_25_콘솔좌표배우기\02_25_콘솔좌표배우기\obj\Debug\02_25_콘솔좌표배우기.pdb
