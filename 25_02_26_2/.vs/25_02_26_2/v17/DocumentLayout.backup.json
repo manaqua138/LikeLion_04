@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github_desktop\\LikeLion_04\\25_02_26_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8123B86-6E3D-43B5-8FFC-1A95A01C5CFF}|25_02_26_2\\25_02_26_2.csproj|c:\\github_desktop\\likelion_04\\25_02_26_2\\25_02_26_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8123B86-6E3D-43B5-8FFC-1A95A01C5CFF}|25_02_26_2\\25_02_26_2.csproj|solutionrelative:25_02_26_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Github_desktop\\LikeLion_04\\25_02_26_2\\25_02_26_2\\Program.cs",
+              "RelativeDocumentMoniker": "25_02_26_2\\Program.cs",
+              "ToolTip": "C:\\Github_desktop\\LikeLion_04\\25_02_26_2\\25_02_26_2\\Program.cs",
+              "RelativeToolTip": "25_02_26_2\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T05:43:41.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
