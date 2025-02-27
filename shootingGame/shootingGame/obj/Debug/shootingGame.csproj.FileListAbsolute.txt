@@ -1,0 +1,7 @@
+C:\Github_desktop\LikeLion_04\shootingGame\shootingGame\bin\Debug\shootingGame.exe.config
+C:\Github_desktop\LikeLion_04\shootingGame\shootingGame\bin\Debug\shootingGame.exe
+C:\Github_desktop\LikeLion_04\shootingGame\shootingGame\bin\Debug\shootingGame.pdb
+C:\Github_desktop\LikeLion_04\shootingGame\shootingGame\obj\Debug\shootingGame.csproj.AssemblyReference.cache
+C:\Github_desktop\LikeLion_04\shootingGame\shootingGame\obj\Debug\shootingGame.csproj.CoreCompileInputs.cache
+C:\Github_desktop\LikeLion_04\shootingGame\shootingGame\obj\Debug\shootingGame.exe
+C:\Github_desktop\LikeLion_04\shootingGame\shootingGame\obj\Debug\shootingGame.pdb

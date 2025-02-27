@@ -1,0 +1,7 @@
+C:\Github_desktop\LikeLion_04\25_02_27_studt3\25_02_27_studt3\bin\Debug\25_02_27_studt3.exe.config
+C:\Github_desktop\LikeLion_04\25_02_27_studt3\25_02_27_studt3\bin\Debug\25_02_27_studt3.exe
+C:\Github_desktop\LikeLion_04\25_02_27_studt3\25_02_27_studt3\bin\Debug\25_02_27_studt3.pdb
+C:\Github_desktop\LikeLion_04\25_02_27_studt3\25_02_27_studt3\obj\Debug\ShootingGame1.csproj.AssemblyReference.cache
+C:\Github_desktop\LikeLion_04\25_02_27_studt3\25_02_27_studt3\obj\Debug\ShootingGame1.csproj.CoreCompileInputs.cache
+C:\Github_desktop\LikeLion_04\25_02_27_studt3\25_02_27_studt3\obj\Debug\25_02_27_studt3.exe
+C:\Github_desktop\LikeLion_04\25_02_27_studt3\25_02_27_studt3\obj\Debug\25_02_27_studt3.pdb
