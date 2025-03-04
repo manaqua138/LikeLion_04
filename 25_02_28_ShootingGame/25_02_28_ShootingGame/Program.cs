@@ -81,6 +81,15 @@ namespace ShootingGame
             itemCount = 0;
             playerX = 0;
             playerY = 12;
+            for (int i = 0; i < 20; i++) //총알 초기화
+            {
+                playerBullet[i] = new BULLET();
+                playerBullet[i].x = 0;
+                playerBullet[i].y = 0;
+                playerBullet[i].fire = false;
+
+
+            }
             enemy.enemyX = 77;
             enemy.enemyY = 12;  /// 먼가 이런 초기화를 더 쉽게 할 방법이 100퍼 있는데...
               
