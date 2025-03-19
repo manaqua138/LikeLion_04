@@ -1,0 +1,7 @@
+C:\Github_desktop\LikeLion_04\TextRPG_Test\TextRPG_Test\bin\Debug\TextRPG_Test.exe.config
+C:\Github_desktop\LikeLion_04\TextRPG_Test\TextRPG_Test\bin\Debug\TextRPG_Test.exe
+C:\Github_desktop\LikeLion_04\TextRPG_Test\TextRPG_Test\bin\Debug\TextRPG_Test.pdb
+C:\Github_desktop\LikeLion_04\TextRPG_Test\TextRPG_Test\obj\Debug\TextRPG_Test.csproj.AssemblyReference.cache
+C:\Github_desktop\LikeLion_04\TextRPG_Test\TextRPG_Test\obj\Debug\TextRPG_Test.csproj.CoreCompileInputs.cache
+C:\Github_desktop\LikeLion_04\TextRPG_Test\TextRPG_Test\obj\Debug\TextRPG_Test.exe
+C:\Github_desktop\LikeLion_04\TextRPG_Test\TextRPG_Test\obj\Debug\TextRPG_Test.pdb
